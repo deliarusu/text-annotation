@@ -14,7 +14,7 @@ concepts is computed using:
 definitions (human-readable text describing their meaning)
 * a structure-based measure: using the ontology or knowledge base structure
 (how concepts are related in the knowledge base)
-* a hybrid measure combining concept definitions and knowledg base structure
+* a hybrid measure combining concept definitions and knowledge base structure
 
 Words in text are annotated with concepts from the ontology or knowledge base 
 as follows. First, candidate concepts are identified for words in a given 
